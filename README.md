@@ -1,2 +1,2 @@
 # Project1-Js
-spotify clone
+spotify clone only Frontend.
